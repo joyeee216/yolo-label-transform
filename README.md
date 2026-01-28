@@ -1,0 +1,2 @@
+# yolo-label-transform
+当多个数据集中，yolo标注的classes文件不统一在整合训练集时往往非常困难，该项目旨在对于不同classes的标注文件夹进行统一操作
